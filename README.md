@@ -58,7 +58,7 @@ AUTHOR'S-NAME-IASD-TP3/
 1. Clone or download this repository
 2. Navigate to the project directory:
    ```cmd
-   cd D:\Year-2\S1\RI\TPS\REZIGA-Abdelatif-IASD-TP3
+   cd D:\Year-2\S1\RI\TPS\system-search-evaluation
    ```
 
 3. Build the project using Maven:
